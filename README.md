@@ -32,3 +32,7 @@ This dataset is a compilation of over 28,000 Amazon user reviews for Kindle, Fir
 3. KNN Classifier - 96.08%
 4. Gradient Boosting Classifier - 90.33%
 5. Customized LSTM Neural Network - 93.70%
+
+#### Sentiments considered
+1. Positive sentiment - Ratings - 1, 2 and 3
+2. Negative sentiment - Ratings - 4 and 5 
